@@ -65,7 +65,7 @@ public class snowluck
         System.out.print(min+" ");
     }
     System.out.println(); /*gives room for next case*/
-    /*-------------------------------
+    /*-------------------------------*/
     /* For code tracing
     for(int i=0;i<=n*n;i++)
     {
